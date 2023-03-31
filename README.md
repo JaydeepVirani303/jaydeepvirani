@@ -23,7 +23,7 @@ Here is a breakdown of the tools that I utilize:
 
 - Trello (project management)
 - Asana (Project Management)
-- Bitbucket & Github (version control)
+- Bitbucket, Gitlab & Github (version control)
 - Google Suite (email, drive, etc)
 - Microsoft Suite
 
